@@ -1,10 +1,53 @@
 
-
-nav ul li {
-display: inline-block;
+hr {
+    height: 10px;
+    background-color: black;
 
 }
+nav ul li {
+    display: inline-block;
+    
+    }
 
 #logo-left{
     float: left;
 }
+
+#left-step {
+    float: left;
+    padding-right: 300px;
+}
+/* #right-step{
+    float: right;
+} */
+
+.formlist{
+    background-image: url(./images/list-bg.png);
+    background-size: 800px;
+    background-repeat: no-repeat;
+}
+
+.rightbutton {
+    float: right;
+}
+
+
+
+ .group2 {
+    float: right;
+    padding-right: 550px;
+} 
+
+/* footer p {
+    padding-left: 600px;
+} */
+
+footer  {
+    padding-left: 600px;
+}
+
+footer img{
+    padding-left: 100px;
+}
+
+
