@@ -9,8 +9,22 @@ nav ul li {
     
     }
 
-#logo-left{
+ h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+ }
+
+#leftlogo{
     float: left;
+}
+
+.nav2 {
+    float: right;
+}
+
+.logotext {
+    float: right;
+    
 }
 
 .left-step {
@@ -66,3 +80,14 @@ main {
     clear: both;
 }
 
+.button {
+    background-color: brown; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: -1300px;
+}
