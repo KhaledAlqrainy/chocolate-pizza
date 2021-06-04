@@ -13,13 +13,13 @@ nav ul li {
     float: left;
 }
 
-#left-step {
+.left-step {
     float: left;
     padding-right: 300px;
 }
-/* #right-step{
+ .right-step{
     float: right;
-} */
+}
 
 .formlist{
     background-image: url(./images/list-bg.png);
@@ -28,6 +28,18 @@ nav ul li {
 }
 
 .rightbutton {
+    float: right;
+
+}
+
+h1 {
+    font-weight: bold;
+}
+p {
+    color: gray;
+}
+
+.printimg{
     float: right;
 }
 
@@ -50,4 +62,7 @@ footer img{
     padding-left: 100px;
 }
 
+main {
+    clear: both;
+}
 
